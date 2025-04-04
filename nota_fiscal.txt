@@ -6,3 +6,7 @@ Produto: Café, Quantidade: 4, Valor: R$51.96
 ====================================================================
 Valor total da compra: R$190.98
 Método de pagamento: Débito
+
+
+
+
